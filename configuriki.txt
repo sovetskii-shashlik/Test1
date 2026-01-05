@@ -15,3 +15,5 @@ vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.8:443?alpn=h2&encryptio
 vless://ce13ec9d-0f04-49c0-9877-0e7d1e657895@a.ru.maviks.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&security=reality&sid=0f917152a871e9c0&sni=maviks.ru&type=tcp#VPN%20vless%20ru%202
 
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?encryption=none&host=freedom.pusytroller.cf&path=%2F&security=none&type=ws#VPN%20vless%20ch%203
+
+vless://7fc953d6-ae75-46fb-a970-10b57d513487@45.139.26.152:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA&security=reality&sid=fd88bd27db4cc661&sni=eh.vk.com&type=tcp#VPN%20vless%20ru%204%20(test)
