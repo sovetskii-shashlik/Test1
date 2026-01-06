@@ -17,3 +17,7 @@ vless://ce13ec9d-0f04-49c0-9877-0e7d1e657895@a.ru.maviks.ru:443?encryption=none&
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?encryption=none&host=freedom.pusytroller.cf&path=%2F&security=none&type=ws#VPN%20vless%20ch%203
 
 vless://7fc953d6-ae75-46fb-a970-10b57d513487@45.139.26.152:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA&security=reality&sid=fd88bd27db4cc661&sni=eh.vk.com&type=tcp#VPN%20vless%20ru%204%20(test)
+
+vless://8fe5889f-bc41-40d6-a93e-fa98e1527a29@144.31.105.21:443?encryption=none&fp=chrome&host=googlevideo.com&mode=auto&path=%2F&pbk=3RCgyYQ27hlOjASSG8dTvEjlwia05DV5RmsRn5TjpEo&security=reality&sid=41701282228f4cff&sni=google.com&type=xhttp#VPN%20vless%20nl%205%20(test)
+
+vless://d7936cba-751b-4b4e-afb4-441eed95ebe4@64.188.94.204:21179?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=Y6D8dyUdfv2WSZK8D950pq8G2TrTCXiq7s-O2Xk0-hs&security=reality&sid=851749efbb4b&sni=ozon.ru&type=xhttp#VPN%20vless%20nl%206%20(test)
