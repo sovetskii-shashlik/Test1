@@ -14,7 +14,7 @@ hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&obfs=salamand
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#VPN%20hy2%20nl%202
 
-hysteria2://xtGIM7iEx9@91.107.190.166:8443/?insecure=1&obfs=salamander&obfs-password=KLSADFIU43%23%24&sni=dash.cloudflare.com#VPN%20hy2%20de%20(test hy2 1)
+hysteria2://xtGIM7iEx9@91.107.190.166:8443/?insecure=1&obfs=salamander&obfs-password=KLSADFIU43%23%24&sni=dash.cloudflare.com#VPN%20hy2%20de%20(test%20hy2%201)
 
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.8:443?alpn=h2&encryption=none&host=181.214.231.8&mode=stream-one&path=%2Fstatue&security=tls&sni=statue.lnmarketplace.net&type=xhttp#VPN%20vless%20de%201
 
@@ -22,8 +22,8 @@ vless://ce13ec9d-0f04-49c0-9877-0e7d1e657895@a.ru.maviks.ru:443?encryption=none&
 
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?encryption=none&host=freedom.pusytroller.cf&path=%2F&security=none&type=ws#VPN%20vless%20at%203
 
-vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&security=reality&sid=9d36b8589fa524fd&sni=st.ozone.ru&type=tcp#VPN%20vless%20fi%204
+vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&security=reality&sid=9d36b8589fa524fd&sni=st.ozone.ru&type=tcp#VPN%20vless%20fi%204%20♿️
 
-vless://7fc953d6-ae75-46fb-a970-10b57d513487@45.139.26.152:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA&security=reality&sid=fd88bd27db4cc661&sni=eh.vk.com&type=tcp#VPN%20vless%20ru%20(test vless 1)
+vless://7fc953d6-ae75-46fb-a970-10b57d513487@45.139.26.152:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA&security=reality&sid=fd88bd27db4cc661&sni=eh.vk.com&type=tcp#VPN%20vless%20ru%20(test%20vless%201)
 
-vless://8fe5889f-bc41-40d6-a93e-fa98e1527a29@144.31.105.21:443?encryption=none&fp=chrome&host=googlevideo.com&mode=auto&path=%2F&pbk=3RCgyYQ27hlOjASSG8dTvEjlwia05DV5RmsRn5TjpEo&security=reality&sid=41701282228f4cff&sni=google.com&type=xhttp#VPN%20vless%20nl%20(test vless 2)
+vless://8fe5889f-bc41-40d6-a93e-fa98e1527a29@144.31.105.21:443?encryption=none&fp=chrome&host=googlevideo.com&mode=auto&path=%2F&pbk=3RCgyYQ27hlOjASSG8dTvEjlwia05DV5RmsRn5TjpEo&security=reality&sid=41701282228f4cff&sni=google.com&type=xhttp#VPN%20vless%20nl%20(test%20vless%202)
