@@ -10,6 +10,8 @@ trojan://M7v%25w11Se%2A@35.246.185.109:443?sni=dggg.wsone.icu#VPN%20trojan%20de%
 
 trojan://M7v%25w11Se%2A@34.94.125.227:443?sni=mxlo.wsone.icu#VPN%20trojan%20us%202%20♿️
 
+trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?sni=binaryboots.algorithmblanket.click#VPN%20trojan%20nz%203%20♿️
+
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.8:443?alpn=h2&encryption=none&host=181.214.231.8&mode=stream-one&path=%2Fstatue&security=tls&sni=statue.lnmarketplace.net&type=xhttp#VPN%20vless%20de%201
 
 vless://ce13ec9d-0f04-49c0-9877-0e7d1e657895@a.ru.maviks.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&security=reality&sid=0f917152a871e9c0&sni=maviks.ru&type=tcp#VPN%20vless%20ru%202
