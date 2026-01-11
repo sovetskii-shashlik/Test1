@@ -24,10 +24,6 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&obfs=sal
 
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#VPN%20hy2%20jp%203
 
-hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#VPN%20hy2%20nl%204
-
-hysteria2://xtGIM7iEx9@91.107.190.166:8443/?insecure=1&obfs=salamander&obfs-password=KLSADFIU43%23%24&sni=dash.cloudflare.com#VPN%20hy2%20de%20(test hy2 1)
-
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.8:443?alpn=h2&encryption=none&host=181.214.231.8&mode=stream-one&path=%2Fstatue&security=tls&sni=statue.lnmarketplace.net&type=xhttp#VPN%20vless%20de%201
 
 vless://ce13ec9d-0f04-49c0-9877-0e7d1e657895@a.ru.maviks.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&security=reality&sid=0f917152a871e9c0&sni=maviks.ru&type=tcp#VPN%20vless%20ru%202
