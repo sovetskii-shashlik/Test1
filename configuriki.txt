@@ -12,6 +12,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4Z29Pc3l5QnYyWW40dzBoU3Fqc05xZjVJR2JJRVRaNg@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#VPN%20ss%20nl%207
 
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#VPN%20ss%20us%208
+
 trojan://M7v%25w11Se%2A@35.246.185.109:443?sni=dggg.wsone.icu#VPN%20trojan%20de%201
 
 trojan://M7v%25w11Se%2A@34.94.125.227:443?sni=mxlo.wsone.icu#VPN%20trojan%20us%202%20♿️
