@@ -1,3 +1,5 @@
+ssr://c2ctYW0xOC5lcXN1bnNoaW5lLmNvbTo4MDgwOm9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6TUVKaVVGTnBjMHh6Lz9vYmZzcGFyYW09Y21Wc1pXRnpaWE11ZFdKMWJuUjFMbU52YlEmcHJvdG9wYXJhbT0mcmVtYXJrcz1WbEJPSUhOemNpQnpaeUF4
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA@45.14.245.2:443#VPN%20ss%20nl%201
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWE9YazJGSndzejlQNm5YSUlDdUROT3FGOWdXWDFkbg@185.156.110.92:443#VPN%20ss%20hr%202
@@ -45,6 +47,8 @@ trojan://M7v%25w11Se%2A@34.94.125.227:443?sni=mxlo.wsone.icu#VPN%20trojan%20us%2
 trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?sni=binaryboots.algorithmblanket.click#VPN%20trojan%20nz%203%20♿️
 
 trojan://DGVu0fnAmdPMx7F9Reo.s@217.170.194.222:13950?allowInsecure=1&sni=ads.x5.ru#VPN%20trojan%20no%204
+
+anytls://e136d465-0558-43b9-b50c-b1f45d4cb2c2@140.238.43.40:41508/?sni=jp2-8sb.6121999.dpdns.org#VPN%20anyTLS%20jp%201
 
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#VPN%20hy2%20nl%201
 
