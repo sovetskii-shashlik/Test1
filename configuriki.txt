@@ -16,6 +16,8 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#VPN%20ss%20us%208
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#VPN%20ss%20us%209
 
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#VPN%20ss%20us%2010
+
 trojan://M7v%25w11Se%2A@35.246.185.109:443?sni=dggg.wsone.icu#VPN%20trojan%20de%201
 
 trojan://M7v%25w11Se%2A@34.94.125.227:443?sni=mxlo.wsone.icu#VPN%20trojan%20us%202%20♿️
