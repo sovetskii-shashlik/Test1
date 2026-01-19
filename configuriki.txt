@@ -20,6 +20,10 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&obfs=sal
 
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#VPN%20hy2%20nl%203
 
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000/?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#VPN%20hy2%20nl%204
+
+hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#VPN%20hy2%20nl%205
+
 vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&security=none&type=tcp#VPN%20vmess%20ru%20(test%20vmess%201)
 
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.8:443?alpn=h2&encryption=none&host=181.214.231.8&mode=stream-one&path=%2Fstatue&security=tls&sni=statue.lnmarketplace.net&type=xhttp#VPN%20vless%20de%201
@@ -31,6 +35,8 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?encryption=none&ho
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?encryption=none&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&security=reality&sid=df8611c07d&sni=yahoo.com&type=tcp#VPN%20vless%20uk%204%20♿️
 
 vless://2ff7333f-214f-48c2-b2e5-a48d3e5d417b@185.184.120.1:443?encryption=none&security=none&type=tcp#VPN%20vless%20de%205
+
+vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&security=reality&sid=82b9ca5d8d39ba72&sni=opensuse.org&type=tcp#VPN%20vless%20de%206
 
 vless://7fc953d6-ae75-46fb-a970-10b57d513487@45.139.26.152:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA&security=reality&sid=fd88bd27db4cc661&sni=eh.vk.com&type=tcp#VPN%20vless%20ru%20(test vless 1)
 
