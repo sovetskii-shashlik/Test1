@@ -16,6 +16,8 @@ trojan://DGVu0fnAmdPMx7F9Reo.s@217.170.194.222:13950?allowInsecure=1&sni=ads.x5.
 
 trojan://nbBv30KKn2tVJB6u33PuotT0t-ghHk@94.103.169.70:8443?alpn=h2%2Chttp%2F1.1&sni=chat.speedload.ru#VPN%20trojan%20de%205
 
+trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?allowInsecure=1&sni=bldgmy.nejzftlubrig.click#VPN%20trojan%20no%206
+
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#VPN%20hy2%20nl%201
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#VPN%20hy2%20nl%202
