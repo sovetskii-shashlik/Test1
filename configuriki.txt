@@ -30,9 +30,9 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?encryption=none&ho
 
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?encryption=none&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&security=reality&sid=df8611c07d&sni=yahoo.com&type=tcp#VPN%20vless%20uk%203%20♿️
 
-vless://2ff7333f-214f-48c2-b2e5-a48d3e5d417b@185.184.120.1:443?encryption=none&security=none&type=tcp#VPN%20vless%20de%204
+vless://00000000-0000-0000-0000-000000000000@104.16.142.237:2095?encryption=none&host=fangbinxingnmsl.pusytroller.cf&path=%2F&security=none&type=ws#VPN%20vless%20cloudflare%204
 
-vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&security=reality&sid=82b9ca5d8d39ba72&sni=opensuse.org&type=tcp#VPN%20vless%20de%205
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#VPN%20vless%20cloudflare%205
 
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?encryption=none&host=freedom.pusytroller.cf&path=%2F&security=none&type=ws#VPN%20vless%20cloudflare%206
 
@@ -45,10 +45,6 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053?allowInsecure=1
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@31.43.179.138:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dns.army&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.dns.army&type=ws#VPN%20vless%20cloudflare%2010
 
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@pages.cloudflare.com:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#VPN%20vless%20cloudflare%2011
-
-vless://00000000-0000-0000-0000-000000000000@104.16.142.237:2095?encryption=none&host=fangbinxingnmsl.pusytroller.cf&path=%2F&security=none&type=ws#VPN%20vless%20cloudflare%2012
-
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&type=ws#VPN%20vless%20cloudflare%2013
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA@45.14.245.2:443#VPN%20ss%20nl%201
 
