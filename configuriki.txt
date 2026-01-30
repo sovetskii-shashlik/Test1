@@ -28,9 +28,7 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300/?insecure
 
 vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&security=none&type=tcp#VPN%20vmess%20ru/tr%201
 
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.8:443?alpn=h2&encryption=none&host=181.214.231.8&mode=stream-one&path=%2Fstatue&security=tls&sni=statue.lnmarketplace.net&type=xhttp#VPN%20vless%20de%201
-
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?encryption=none&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&security=reality&sid=df8611c07d&sni=yahoo.com&type=tcp#VPN%20vless%20uk%203%20♿️
+vless://c4bfda4b-0652-45a2-86ee-d627e5a2d4a5@193.23.211.1:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QTnnDh22E-zeFRXYjhXYLTFw6sCgum2-H_-PVto140Q&security=reality&sid=aabbccdd&sni=www.nvidia.com&type=tcp#VPN%20vless%20de%201
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA@45.14.245.2:443#VPN%20ss%20nl/uk%201
 
