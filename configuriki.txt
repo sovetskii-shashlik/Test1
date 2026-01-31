@@ -4,6 +4,8 @@ http://fQ67Dpe5dU:gs4BXwT6SW@154.26.192.123:10988#VPN%20http%20us%201%20not%20by
 
 anytls://e136d465-0558-43b9-b50c-b1f45d4cb2c2@140.238.43.40:41508/?sni=jp2-8sb.6121999.dpdns.org#VPN%20anyTLS%20jp%201%20not%20bypass
 
+ss://2022-blake3-aes-256-gcm:mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=%3A6YebGRecdqKoInRf4i8SZqlAevOV13VtNw+oNecrWPQ=@us4.07c06051-81fd-4aa4-a94e-a0860315df8f.org:14999#VPN%20ss22%20us%201
+
 ssr://c2ctYW0xOC5lcXN1bnNoaW5lLmNvbTo4MDgwOm9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6TUVKaVVGTnBjMHh6Lz9vYmZzcGFyYW09Y21Wc1pXRnpaWE11ZFdKMWJuUjFMbU52YlEmcHJvdG9wYXJhbT0mcmVtYXJrcz1WbEJPSUhOemNpQnpaeUF4
 
 trojan://M7v%25w11Se%2A@35.246.185.109:443?sni=dggg.wsone.icu#VPN%20trojan%20de%201
