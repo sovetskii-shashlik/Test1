@@ -30,6 +30,8 @@ vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&
 
 vless://c4bfda4b-0652-45a2-86ee-d627e5a2d4a5@193.23.211.1:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QTnnDh22E-zeFRXYjhXYLTFw6sCgum2-H_-PVto140Q&security=reality&sid=aabbccdd&sni=www.nvidia.com&type=tcp#VPN%20vless%20de%201
 
+vless://86d91a00-6738-4c22-a7a0-05ab26b40b35@89.125.53.224:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hv2N4lcnyJp8bgwADtoBDL0uD4MCaZFJ5k0PEUi23TM&security=reality&sid=7277&sni=www.microsoft.com&type=tcp#VPN%20vless%20de/fi%202
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA@45.14.245.2:443#VPN%20ss%20nl/uk%201
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWE9YazJGSndzejlQNm5YSUlDdUROT3FGOWdXWDFkbg@185.156.110.92:443#VPN%20ss%20hr%202
