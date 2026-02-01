@@ -18,6 +18,10 @@ trojan://M7v%25w11Se%2A@34.131.228.210:443?sni=hyfuuf6.wsone.icu#VPN%20trojan%20
 
 trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?sni=binaryboots.algorithmblanket.click#VPN%20trojan%20nz%205%20♿️
 
+trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.153.36:20994?allowInsecure=1&sni=ads.x5.ru#VPN%20trojan%20de%206
+
+trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?allowInsecure=1&sni=ads.x5.ru#VPN%20trojan%20de%207
+
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#VPN%20hy2%20nl%201
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#VPN%20hy2%20nl%202
@@ -32,6 +36,8 @@ hysteria2://e7f63889-2d38-4311-b44d-40e422650d74@86.53.106.80:11055/?sni=dv.tedz
 
 vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&security=none&type=tcp#VPN%20vmess%20ru/tr%201
 
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@159.195.42.189:22955?encryption=none&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&security=reality&serviceName=grpc&sid=6ba85179e30d4fc2&sni=one-piece.com&type=grpc#VPN%20vless%20de%20(test%201)
+
 vless://c4bfda4b-0652-45a2-86ee-d627e5a2d4a5@193.23.211.1:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QTnnDh22E-zeFRXYjhXYLTFw6sCgum2-H_-PVto140Q&security=reality&sid=aabbccdd&sni=www.nvidia.com&type=tcp#VPN%20vless%20de%201
 
 vless://86d91a00-6738-4c22-a7a0-05ab26b40b35@89.125.53.224:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hv2N4lcnyJp8bgwADtoBDL0uD4MCaZFJ5k0PEUi23TM&security=reality&sid=7277&sni=www.microsoft.com&type=tcp#VPN%20vless%20de/fi%202
@@ -41,6 +47,10 @@ vless://4088cb46-66f8-43fa-bf37-6919cdda7830@31.59.168.88:6443?encryption=none&f
 vless://ccbc334b-de33-4431-89b4-35b756230f51@94.237.93.9:59421?encryption=none&headerType=http&host=soft98.ir&security=none&type=tcp#VPN%20vless%20de/fi%204
 
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.99.116:443?alpn=h2&encryption=none&host=statue.lnmarketplace.net&mode=stream-one&path=%2Fstatue&security=tls&sni=statue.lnmarketplace.net&type=xhttp#VPN%20vless%20de%205
+
+vless://93a20fae-54f4-4e25-93ef-995b3e52fc04@45.89.53.110:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=61Svf2Pd08DRvSgCHyI_J-F7lhPLd_hg3mS_byFl_h0&security=reality&sid=fb1a8818b2ec7f2e&sni=tradingview.com&type=tcp#VPN%20vless%20us/ru%206
+
+vless://044818b4-a05f-5813-b8f5-63e1e4615827@194.107.126.214:8443?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=JOJ9C3bZafgM5-cMNWQQIgsU7rGSMhXOz89852K-EwQ&security=reality&sid=c39392324d01&sni=vk.com&type=xhttp#VPN%20vless%20de%207
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA@45.14.245.2:443#VPN%20ss%20nl/uk%201
 
