@@ -34,8 +34,6 @@ hysteria2://dongtaiwang.com@89.144.35.25:33550/?insecure=1#VPN%20hy2%20nl%204
 
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#VPN%20hy2%20nl%205
 
-hysteria2://e7f63889-2d38-4311-b44d-40e422650d74@86.53.106.80:11055/?sni=dv.tedzhao.eu.org#VPN%20hy2%20de%206
-
 vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&security=none&type=tcp#VPN%20vmess%20ru/tr%201
 
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@159.195.42.189:22955?encryption=none&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&security=reality&serviceName=grpc&sid=6ba85179e30d4fc2&sni=one-piece.com&type=grpc#VPN%20vless%20de%20(test%201)
