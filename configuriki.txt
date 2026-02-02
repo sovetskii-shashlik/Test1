@@ -50,7 +50,7 @@ hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&ob
 
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#VPN%20hy2%20nl%204
 
-vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&security=none&type=tcp#VPN%20vmess%20ru/tr%201
+vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=zero&security=none&type=tcp#VPN%20vmess%20ru/tr%201
 
 vmess://ede27a79-b039-490b-932c-495de4b68880@162.19.248.238:550?encryption=zero&security=none&type=tcp#VPN%20vmess%20de/fr%202
 
