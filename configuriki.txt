@@ -52,7 +52,7 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300/?insecure
 
 vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&security=none&type=tcp#VPN%20vmess%20ru/tr%201
 
-vmess://ede27a79-b039-490b-932c-495de4b68880@162.19.248.238:550?encryption=auto&security=none&type=tcp#VPN%20vmess%20de/fr%202
+vmess://ede27a79-b039-490b-932c-495de4b68880@162.19.248.238:550?encryption=zero&security=none&type=tcp#VPN%20vmess%20de/fr%202
 
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@159.195.42.189:22955?encryption=none&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&security=reality&serviceName=grpc&sid=6ba85179e30d4fc2&sni=one-piece.com&type=grpc#VPN%20vless%20de%20(test%201)
 
