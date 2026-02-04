@@ -20,7 +20,7 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300/?insecure
 
 vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=zero&security=none&type=tcp#VPN%20vmess%20ru/tr%201
 
-vmess://ede27a79-b039-490b-932c-495de4b68880@162.19.248.238:550?encryption=zero&security=none&type=tcp#VPN%20vmess%20de/fr%202
+vmess://ede27a79-b039-490b-932c-495de4b68880@162.19.248.238:550?encryption=aes-128-gcm&security=none&type=tcp#VPN%20vmess%20de/fr%202
 
 vless://4088cb46-66f8-43fa-bf37-6919cdda7830@31.59.168.88:6443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4&security=reality&sni=tradingview.com&type=tcp#VPN%20vless%20us/ae%201
 
@@ -49,8 +49,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:
 ss://2022-blake3-aes-256-gcm:mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=%3A6YebGRecdqKoInRf4i8SZqlAevOV13VtNw+oNecrWPQ=@198.176.50.204:14999#VPN%20ss2022%20us%201
 
 ss://2022-blake3-aes-256-gcm:cDbs4TCyxnU3rdHzM0Od4hqGM1VCoi25crxoSU1AJuY=%3ARtz0xnsK9tgBQbBsa8H1uOzVGhTjU4Ht1mEwRBY7l2I=@46.226.167.138:40485#VPN%20ss2022%20fr%202
-
-ss://2022-blake3-aes-256-gcm:mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=%3A6YebGRecdqKoInRf4i8SZqlAevOV13VtNw+oNecrWPQ=@198.176.50.204:14999#VPN%20ss2022%20us%203
 
 ssr://NTQuMTc5LjYwLjE2MTo4MDgwOm9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6TUVKaVVGTnBjMHh6Lz9vYmZzcGFyYW09Y21Wc1pXRnpaWE11ZFdKMWJuUjFMbU52YlEmcHJvdG9wYXJhbT0mcmVtYXJrcz1WbEJPSUhOemNpQnpaeUF4
 
