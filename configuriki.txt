@@ -12,6 +12,8 @@ trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?sni=binaryboots.algorithmblan
 
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#VPN%20trojan%20no%206
 
+trojan://humanity@www.calmlunch.com:443?allowInsecure=1&path=%2Fassignment&type=ws#VPN%20trojan%20fr/us%207
+
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#VPN%20hy2%20nl%201
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#VPN%20hy2%20nl%202
