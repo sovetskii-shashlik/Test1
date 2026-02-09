@@ -6,11 +6,9 @@ trojan://M7v%25w11Se%2A@35.244.28.130:443?sni=tttyder.wsone.icu#VPN%20trojan%20i
 
 trojan://M7v%25w11Se%2A@34.131.228.210:443?sni=hyfuuf6.wsone.icu#VPN%20trojan%20in%204
 
-trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?sni=binaryboots.algorithmblanket.click#VPN%20trojan%20nz%205
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#VPN%20trojan%20no%205
 
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#VPN%20trojan%20no%206
-
-trojan://humanity@www.calmlunch.com:443?allowInsecure=1&path=%2Fassignment&type=ws#VPN%20trojan%20fr/us%207
+trojan://humanity@www.calmlunch.com:443?allowInsecure=1&path=%2Fassignment&type=ws#VPN%20trojan%20fr/us%206
 
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#VPN%20hy2%20nl%201
 
