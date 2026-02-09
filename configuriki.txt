@@ -26,10 +26,6 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300/?insecure
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#VPN%20hy2%20nl%205
 
-hysteria2://15b5b40f-02e9-47cf-a56e-768f938cc9af@87.120.219.234:40208/?insecure=1&sni=uk1.jueduibupao.top#VPN%20hy2%20uk%206
-
-hysteria2://0639982f-22d4-44d9-baa8-a4a7e761a5d3@147.45.49.251:41390/?insecure=1&sni=linjp1.jueduibupao.top#VPN%20hy2%20jp%207
-
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#VPN%20ss%20de%201
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#VPN%20ss%20nl/uk%202
