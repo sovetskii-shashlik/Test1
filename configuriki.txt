@@ -1,11 +1,3 @@
-anytls://88608372-0158-46de-87fe-dade16dd7266@160.16.114.10:12006/?insecure=1#VPN%20anyTLS%20hk%201
-
-anytls://88608372-0158-46de-87fe-dade16dd7266@160.16.71.143:12006/?insecure=1#VPN%20anyTLS%20hk%202
-
-anytls://88608372-0158-46de-87fe-dade16dd7266@160.16.217.91:12003/?insecure=1#VPN%20anyTLS%20us%203
-
-anytls://88608372-0158-46de-87fe-dade16dd7266@160.16.106.119:12002/?insecure=1#VPN%20anyTLS%20us%204
-
 trojan://M7v%25w11Se%2A@35.246.185.109:443?sni=dggg.wsone.icu#VPN%20trojan%20de%201
 
 trojan://M7v%25w11Se%2A@34.94.125.227:443?sni=mxlo.wsone.icu#VPN%20trojan%20us%202
