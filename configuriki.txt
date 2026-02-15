@@ -16,8 +16,6 @@ trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#VPN%
 
 trojan://humanity@www.calmlunch.com:443?allowInsecure=1&path=%2Fassignment&type=ws#VPN%20trojan%20fr/us%206
 
-vless://93a20fae-54f4-4e25-93ef-995b3e52fc04@45.89.53.110:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=61Svf2Pd08DRvSgCHyI_J-F7lhPLd_hg3mS_byFl_h0&security=reality&sid=fb1a8818b2ec7f2e&sni=tradingview.com&type=tcp#VPN%20vless%20us/ru%201
-
 vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=zero&security=none&type=tcp#VPN%20vmess%20ru/tr%201
 
 vmess://ede27a79-b039-490b-932c-495de4b68880@162.19.248.238:550?encryption=aes-128-gcm&security=none&type=tcp#VPN%20vmess%20de/fr%202
@@ -58,11 +56,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDMWhRZVpGSlZ0MkxDb0toWlNtNWNFMzFvc2JIS0FCYmF
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyVE53WWRFVjlxQzV5aUxyNFJZOGdFUG43amZnMWE1YkV3dlFxeldlaGljaHdiZ2dXMXQyR1F5OXJNaldkZVhDU01rVzN1WUhSWWN0WUJxQlAzVkJGaUVpbjZmV3M0RWM@185.5.38.111:55988#VPN%20ss%20fi/uk%2011
 
-ss://2022-blake3-aes-256-gcm:PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=@51.178.85.208:8388#VPN%20ss2022%20fr%201
-
-ss://2022-blake3-aes-256-gcm:PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=@51.178.85.208:8389#VPN%20ss2022%20fr%202
-
-ss://2022-blake3-aes-256-gcm:PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=@51.178.85.208:8390#VPN%20ss2022%20fr%203
+ss://2022-blake3-aes-256-gcm:mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=%3A6YebGRecdqKoInRf4i8SZqlAevOV13VtNw+oNecrWPQ=@38.180.185.250:14999#VPN%20ss2022%20ar%201
 
 ssr://NTQuMTc5LjYwLjE2MTo4MDgwOm9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6TUVKaVVGTnBjMHh6Lz9vYmZzcGFyYW09Y21Wc1pXRnpaWE11ZFdKMWJuUjFMbU52YlEmcHJvdG9wYXJhbT0mcmVtYXJrcz1WbEJPSUhOemNpQnpaeUF4
 
@@ -85,9 +79,3 @@ socks5://19543657:qwe123456@64.81.39.190:18888#VPN%20socks5%20us%204
 socks5://123456:123456@8.217.93.42:1080#VPN%20socks5%20hk%205
 
 socks5://123456:123456@8.217.89.51:1080#VPN%20socks5%20hk%206
-
-socks5://193.233.254.9:1080#VPN%20socks5%20de%207
-
-socks5://193.233.254.8:1080#VPN%20socks5%20de%208
-
-socks5://193.233.254.7:1080#VPN%20socks5%20de%209
