@@ -16,6 +16,8 @@ trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#VPN%
 
 trojan://humanity@www.calmlunch.com:443?allowInsecure=1&path=%2Fassignment&type=ws#VPN%20trojan%20fr/us%206
 
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.38:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%20(test%20vless%201)
+
 vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=zero&security=none&type=tcp#VPN%20vmess%20ru/tr%201
 
 vmess://ede27a79-b039-490b-932c-495de4b68880@162.19.248.238:550?encryption=aes-128-gcm&security=none&type=tcp#VPN%20vmess%20de/fr%202
