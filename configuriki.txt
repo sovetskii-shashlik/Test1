@@ -4,6 +4,8 @@
 
 # Хуйня с ТГ, не ебу как работает, юзайте пока не сдохло.
 
+anytls://b2ca8061-cf93-403f-a150-c26fb26610f7@46.17.40.31:25741/?insecure=1#VPN%20anyTLS%20ru%201
+
 trojan://M7v%25w11Se%2A@35.246.185.109:443?sni=dggg.wsone.icu#VPN%20trojan%20de%201
 
 trojan://M7v%25w11Se%2A@34.94.125.227:443?sni=mxlo.wsone.icu#VPN%20trojan%20us%202
