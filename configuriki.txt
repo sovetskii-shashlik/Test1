@@ -4,7 +4,7 @@
 
 # Хуйня с ТГ, не ебу как работает, юзайте пока не сдохло.
 
-anytls://b2ca8061-cf93-403f-a150-c26fb26610f7@46.17.40.31:25741/?insecure=1#VPN%20anyTLS%20ru%201
+anytls://b2ca8061-cf93-403f-a150-c26fb26610f7@46.17.40.31:25741/?sni=ru.pddwdf.store#VPN%20anyTLS%20ru%201
 
 anytls://dongtaiwang.com@45.221.98.14:59901/?insecure=1#VPN%20anyTLS%20za%202
 
