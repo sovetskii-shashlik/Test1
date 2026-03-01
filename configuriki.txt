@@ -28,6 +28,8 @@ vless://eb071647-72a6-46be-8e89-ff3d228d52f6@185.254.98.164:443?encryption=none&
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.38:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%20(test%20vless%201)
 
+vless://ea171926-291b-4687-9391-64f6367fc8dc@49.13.32.19:443?encryption=mlkem768x25519plus.native.0rtt.NGSh69EX9pIxW3LseVWYgSZt3wxTk_tH3NGX59WFbVE&flow=xtls-rprx-vision&fp=chrome&pbk=K5SCoFhl9-GbN_0Y6_1NkyHYRGPa1nRmVJZ3CJumxSg&security=reality&sid=237dacb20e9d24ce&sni=kick.com&type=tcp#VPN%20vless%20clouflare/de%20(test%20vless%202)
+
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#VPN%20hy2%20nl%201
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#VPN%20hy2%20nl%202
