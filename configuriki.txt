@@ -22,6 +22,8 @@ trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#VPN%
 
 trojan://humanity@www.calmlunch.com:443?allowInsecure=1&path=%2Fassignment&type=ws#VPN%20trojan%20fr/us%206
 
+trojan://RmhZQ47pEm@180.131.145.169:18718?fp=chrome&pbk=asandNdBjV4KsNXq9fmPx4nM6QtjJV7MYTyBOrTZ4zY&security=reality&sid=b7df2e7f077d&sni=www.tesla.com&type=grpc#VPN%20trojan%20cloudflare/us%20(test%20trojan%201)
+
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@45.145.40.26:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&security=reality&sid=4daa022e84f8edf2&sni=de.cdn.stun.su&type=tcp#VPN%20vless%20de%201
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@185.254.98.164:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&security=reality&sid=4daa022e84f8edf2&sni=de.cdn.stun.su&type=tcp#VPN%20vless%20de%202
