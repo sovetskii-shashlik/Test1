@@ -18,7 +18,7 @@ trojan://M7v%25w11Se%2A@35.244.28.130:443?sni=tttyder.wsone.icu#VPN%20trojan%20i
 
 trojan://M7v%25w11Se%2A@34.131.228.210:443?sni=hyfuuf6.wsone.icu#VPN%20trojan%20in%204
 
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=1#VPN%20trojan%20no%205
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?sni=0.nonlinearneedle.click#VPN%20trojan%20no%205
 
 trojan://humanity@www.calmlunch.com:443?allowInsecure=1&path=%2Fassignment&type=ws#VPN%20trojan%20fr/us%206
 
