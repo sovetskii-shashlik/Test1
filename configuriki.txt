@@ -26,7 +26,7 @@ trojan://humanity@185.18.250.245:443?allowInsecure=1&host=www.calmlunch.com&path
 
 trojan://RmhZQ47pEm@180.131.145.169:18718?fp=chrome&pbk=asandNdBjV4KsNXq9fmPx4nM6QtjJV7MYTyBOrTZ4zY&security=reality&sid=b7df2e7f077d&sni=www.tesla.com&type=grpc#VPN%20trojan%20cloudflare/us%20(test%20trojan%201)
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.38:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%203
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.38:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%201
 
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#VPN%20hy2%20nl%201
 
