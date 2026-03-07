@@ -93,3 +93,5 @@ socks5://193.233.254.38:1080#VPN%20socks5%20de/ru%207
 socks5://193.233.254.57:1080#VPN%20socks5%20de/ru%208
 
 socks5://193.233.254.63:1080#VPN%20socks5%20de/ru%209
+
+socks5://93.183.124.28:1080#VPN%20socks5%20nl%2010%20(not%20stable)
