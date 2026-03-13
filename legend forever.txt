@@ -5,3 +5,5 @@ trojan://M7v%25w11Se%2A@34.94.125.227:443?sni=mxlo.wsone.icu#VPN%20trojan%20us%2
 trojan://M7v%25w11Se%2A@35.244.28.130:443?sni=tttyder.wsone.icu#VPN%20trojan%20in%203
 
 trojan://M7v%25w11Se%2A@34.131.228.210:443?sni=hyfuuf6.wsone.icu#VPN%20trojan%20in%204
+
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#VPN%20ss%20de%201
