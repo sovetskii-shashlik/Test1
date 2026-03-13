@@ -10,17 +10,9 @@ anytls://dongtaiwang.com@45.221.98.14:59901/?insecure=1#VPN%20anyTLS%20za%202
 
 tuic://9bbd1f42-7ae7-4239-bd10-a68de95e3295:dongtaiwang.com@5.83.129.210:10088?allow_insecure=1&alpn=h3&congestion_control=cubic&congestion_controller=cubic&reduce_rtt=1&sni=apple.com&udp_relay_mode=quic&version=5#VPN%20tuic%20de%201
 
-trojan://M7v%25w11Se%2A@35.246.185.109:443?sni=dggg.wsone.icu#VPN%20trojan%20de%201
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?sni=www.nonlinearneedle.click#VPN%20trojan%20no%201
 
-trojan://M7v%25w11Se%2A@34.94.125.227:443?sni=mxlo.wsone.icu#VPN%20trojan%20us%202
-
-trojan://M7v%25w11Se%2A@35.244.28.130:443?sni=tttyder.wsone.icu#VPN%20trojan%20in%203
-
-trojan://M7v%25w11Se%2A@34.131.228.210:443?sni=hyfuuf6.wsone.icu#VPN%20trojan%20in%204
-
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?sni=www.nonlinearneedle.click#VPN%20trojan%20no%205
-
-trojan://zp630tdUuD@194.150.166.151:52047?fp=chrome&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&security=reality&sid=1abe0c286879&sni=aws.amazon.com&type=grpc#VPN%20trojan%20uk%206
+trojan://zp630tdUuD@194.150.166.151:52047?fp=chrome&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&security=reality&sid=1abe0c286879&sni=aws.amazon.com&type=grpc#VPN%20trojan%20uk%202
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.38:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%201
 
