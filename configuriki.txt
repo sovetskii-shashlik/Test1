@@ -20,19 +20,11 @@ trojan://M7v%25w11Se%2A@34.131.228.210:443?sni=hyfuuf6.wsone.icu#VPN%20trojan%20
 
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?sni=www.nonlinearneedle.click#VPN%20trojan%20no%205
 
-trojan://humanity@www.calmlunch.com:443?allowInsecure=1&path=%2Fassignment&type=ws#VPN%20trojan%20fr/us%206
-
-trojan://humanity@185.18.250.245:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#VPN%20trojan%20fr/us%207
-
-trojan://zp630tdUuD@194.150.166.151:52047?fp=chrome&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&security=reality&sid=1abe0c286879&sni=aws.amazon.com&type=grpc#VPN%20trojan%20uk%208
-
-trojan://RmhZQ47pEm@180.131.145.169:18718?fp=chrome&pbk=asandNdBjV4KsNXq9fmPx4nM6QtjJV7MYTyBOrTZ4zY&security=reality&sid=b7df2e7f077d&sni=www.tesla.com&type=grpc#VPN%20trojan%20cloudflare/us%20(test%20trojan%201)
+trojan://zp630tdUuD@194.150.166.151:52047?fp=chrome&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&security=reality&sid=1abe0c286879&sni=aws.amazon.com&type=grpc#VPN%20trojan%20uk%206
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.38:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%201
 
 vmess://eee8cb72-7eab-4034-a308-ed06cb07e003@43.100.32.4:443?encryption=auto&host=n1747624260.4u9ma.icu&path=%2F&security=tls&sni=n1747624260.4u9ma.icu&type=ws#VPN%20vmess%20hk%201
-
-vmess://ede27a79-b039-490b-932c-495de4b68880@162.19.248.238:550?encryption=aes-128-gcm&security=none&type=tcp#VPN%20vmess%20de/fr%202
 
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#VPN%20hy2%20nl%201
 
@@ -40,9 +32,7 @@ hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&ob
 
 ssr://NDUuMTU0LjIwNC4xMzo0NDM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY2ZiOmh0dHBfc2ltcGxlOkpDUlVkWEppTUZaUVRpUWsvP29iZnNwYXJhbT1ZbWx1Wnk1amIyMCZwcm90b3BhcmFtPSZyZW1hcmtzPVZsQk9JSE56Y2lCallTQXg
 
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#VPN%20ss%20de%201
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDMWhRZVpGSlZ0MkxDb0toWlNtNWNFMzFvc2JIS0FCYmFuQjd0dE0yWWdTMkJCZHhORW5vVFE2U3pKUHB0c2JlVEpRa0UyU294RUZhbUFWZTVodFQ0VWNEaWZ4Zlo1THA@87.239.252.206:40390#VPN%20ss%20nl/fi%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDMWhRZVpGSlZ0MkxDb0toWlNtNWNFMzFvc2JIS0FCYmFuQjd0dE0yWWdTMkJCZHhORW5vVFE2U3pKUHB0c2JlVEpRa0UyU294RUZhbUFWZTVodFQ0VWNEaWZ4Zlo1THA@87.239.252.206:40390#VPN%20ss%20nl/fi%201
 
 http://fQ67Dpe5dU:gs4BXwT6SW@154.26.192.123:10988#VPN%20http%20us%201%20not%20bypass
 
