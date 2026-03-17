@@ -16,6 +16,8 @@ trojan://zp630tdUuD@194.150.166.151:52047?fp=chrome&pbk=4o28aGSIz_r6Fa9sG7ZjgeT7
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.38:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%201
 
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.138:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%202
+
 vmess://eee8cb72-7eab-4034-a308-ed06cb07e003@43.100.32.4:443?encryption=auto&host=n1747624260.4u9ma.icu&path=%2F&security=tls&sni=n1747624260.4u9ma.icu&type=ws#VPN%20vmess%20hk%201
 
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#VPN%20hy2%20nl%201
