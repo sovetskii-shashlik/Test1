@@ -58,35 +58,27 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.121:8880?encryption=none&s
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.127:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2023
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.133:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2024
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.137:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2024
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.134:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2025
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.138:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2025
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.135:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2026
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.139:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2026
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.136:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2027
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.140:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2027
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.137:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2028
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.162:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2028
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.138:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2029
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.164:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2029
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.139:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2030
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.166:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2030
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.140:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2031
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.167:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2031
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.162:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2032
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.168:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2032
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.164:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2033
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.169:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2033
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.166:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2034
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.167:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2035
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.168:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2036
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.169:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2037
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.170:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2038
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.170:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2034
 
 vmess://eee8cb72-7eab-4034-a308-ed06cb07e003@43.100.32.4:443?encryption=auto&host=n1747624260.4u9ma.icu&path=%2F&security=tls&sni=n1747624260.4u9ma.icu&type=ws#VPN%20vmess%20hk%201
 
