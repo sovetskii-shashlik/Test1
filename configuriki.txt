@@ -10,12 +10,6 @@ anytls://dongtaiwang.com@45.221.98.14:59901/?insecure=1#VPN%20anyTLS%20za%202
 
 tuic://9bbd1f42-7ae7-4239-bd10-a68de95e3295:dongtaiwang.com@ip1.758733.xyz:10088?allow_insecure=1&alpn=h3&congestion_control=cubic&congestion_controller=cubic&reduce_rtt=1&sni=apple.com&udp_relay_mode=quic&version=5#VPN%20tuic%20de%201
 
-trojan://strong-secret-pass-777@2.56.172.83:4443?allowInsecure=1#VPN%20trojan%20rs/cy%201%20(shows%20promise%20of%20longevity)
-
-trojan://strong-secret-pass-777@45.12.146.179:4443?allowInsecure=1#VPN%20trojan%20fi%202%20(shows%20promise%20of%20longevity)
-
-trojan://M7v%25w11Se%2A@34.94.125.227:443?sni=mxlo.wsone.icu#VPN%20trojan%20us%203
-
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.171:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%201
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.121:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%202
