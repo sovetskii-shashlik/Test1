@@ -36,6 +36,8 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.170:8880?encryption=none&s
 
 vmess://eee8cb72-7eab-4034-a308-ed06cb07e003@43.100.32.4:443?encryption=auto&host=n1747624260.4u9ma.icu&path=%2F&security=tls&sni=n1747624260.4u9ma.icu&type=ws#VPN%20vmess%20hk%201
 
+vmess://4ed58974-48cd-472e-c818-fb847b8c551f@74.48.28.190:80?encryption=auto&path=%2Fcctv13.m3u8&security=none&type=ws#VPN%20vmess%20us%202
+
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#VPN%20hy2%20nl%201
 
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#VPN%20hy2%20nl%202
