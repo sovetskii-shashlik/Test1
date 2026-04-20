@@ -38,13 +38,11 @@ vmess://eee8cb72-7eab-4034-a308-ed06cb07e003@43.100.32.4:443?encryption=auto&hos
 
 vmess://4ed58974-48cd-472e-c818-fb847b8c551f@74.48.28.190:80?encryption=auto&path=%2Fcctv13.m3u8&security=none&type=ws#VPN%20vmess%20us%202
 
-hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#VPN%20hy2%20nl%201
+hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#VPN%20hy2%20nl%201
 
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#VPN%20hy2%20nl%202
+hysteria2://school%3AJWhpSpBGQyBoKhS9wXnXqabzqgfUHti9@185.88.37.183:1935/?insecure=1&obfs=salamander&obfs-password=CW63DfvNEEtClqaHGszFiIr4nm5YSM45&sni=github.com#VPN%20hy2%20ee%202
 
-hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#VPN%20hy2%20nl%20(test%20hy2%201)
-
-hysteria2://school%3AJWhpSpBGQyBoKhS9wXnXqabzqgfUHti9@185.88.37.183:1935/?insecure=1&obfs=salamander&obfs-password=CW63DfvNEEtClqaHGszFiIr4nm5YSM45&sni=github.com#VPN%20hy2%20ee%20(test%20hy2%202)
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900/?insecure=1&sni=www.microsoft.com#VPN%20hy2%20nl/de%203
 
 ssr://NDUuMTU0LjIwNC4xMzo0NDM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY2ZiOmh0dHBfc2ltcGxlOkpDUlVkWEppTUZaUVRpUWsvP29iZnNwYXJhbT1ZbWx1Wnk1amIyMCZwcm90b3BhcmFtPSZyZW1hcmtzPVZsQk9JSE56Y2lCallTQXg
 
