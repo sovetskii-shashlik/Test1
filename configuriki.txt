@@ -6,13 +6,9 @@
 
 anytls://dongtaiwang.com@tw.399403.xyz:8443/?insecure=1#VPN%20anyTLS%20tw%201
 
-anytls://dongtaiwang.com@45.221.98.14:59901/?insecure=1#VPN%20anyTLS%20za%202
-
 tuic://9bbd1f42-7ae7-4239-bd10-a68de95e3295:dongtaiwang.com@ip1.758733.xyz:10088?allow_insecure=1&alpn=h3&congestion_control=bbr&congestion_controller=bbr&reduce_rtt=1&sni=apple.com&udp_relay_mode=native&version=5#VPN%20tuic%20de%201
 
 trojan://M7v%25w11Se%2A@34.94.125.227:443?sni=mxlo.wsone.icu#VPN%20trojan%20us%202%20not%20stable
-
-vless://ce13ec9d-0f04-49c0-9877-0e7d1e657895@a.ru.maviks.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&security=reality&sid=0f917152a871e9c0&sni=maviks.ru&type=tcp#VPN%20vless%20ru%20(test%20vless%201)
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.171:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%201
 
@@ -64,16 +60,12 @@ ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@116.251.217.65:443/
 
 http://fQ67Dpe5dU:gs4BXwT6SW@154.26.192.123:10988#VPN%20http%20us%201%20not%20bypass
 
-socks5://admin:admin133@168.138.179.155:41950#VPN%20socks5%20sg%201%20not%20bypass
+socks5://Misaka:Misaka@23.27.22.192:8636#VPN%20socks5%20us%201
 
-socks5://Misaka:Misaka@23.27.22.192:8636#VPN%20socks5%20us%202
+socks5://19543657:qwe123456@64.81.39.190:18888#VPN%20socks5%20us%202
 
-socks5://19543657:qwe123456@64.81.39.190:18888#VPN%20socks5%20us%203
+socks5://193.233.254.38:1080#VPN%20socks5%20de/ru%203
 
-socks5://123456:123456@8.217.89.51:1080#VPN%20socks5%20hk%204
+socks5://193.233.254.57:1080#VPN%20socks5%20de/ru%204
 
-socks5://193.233.254.38:1080#VPN%20socks5%20de/ru%205
-
-socks5://193.233.254.57:1080#VPN%20socks5%20de/ru%206
-
-socks5://193.233.254.63:1080#VPN%20socks5%20de/ru%207
+socks5://193.233.254.63:1080#VPN%20socks5%20de/ru%205
