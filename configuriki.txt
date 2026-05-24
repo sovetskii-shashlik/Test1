@@ -24,29 +24,7 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@95.163.240.203:8443?allowInsecure=1&host=Koma-
 
 trojan://8r%3C%5B9%27l6hAO%238ZQi@77.42.39.108:8443?host=Koma-YT.PAGES.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGES.Dev&type=ws#VPN%20trojan%20fi%206
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.171:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%201
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.121:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%202
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.127:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%203
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.162:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%204
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.164:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%205
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.166:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%206
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.167:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%207
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.168:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%208
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.169:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%209
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.86.72.170:8880?encryption=none&security=none&type=grpc#VPN%20vless%20us/cy%2010
-
 vmess://eee8cb72-7eab-4034-a308-ed06cb07e003@43.100.32.4:443?encryption=auto&host=n1747624260.4u9ma.icu&path=%2F&security=tls&sni=n1747624260.4u9ma.icu&type=ws#VPN%20vmess%20hk%201
-
-vless://25f1947f-63a8-2040-8f3b-b101eed550e7@146.185.241.45:443?encryption=none&path=%2Fupload%2Fsession&security=tls&sni=w1ws.listwhite.cc&type=ws#VPN%20vless%20pl%20(test%20vless%201)
 
 vmess://4ed58974-48cd-472e-c818-fb847b8c551f@74.48.28.190:80?encryption=aes-128-gcm&path=%2Fcctv13.m3u8&security=none&type=ws#VPN%20vmess%20us%202%20(aes-128-gcm)
 
