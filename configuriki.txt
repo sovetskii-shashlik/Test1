@@ -6,7 +6,7 @@
 
 anytls://dongtaiwang.com@tw.399403.xyz:8443/?insecure=1#VPN%20anyTLS%20tw%201
 
-anytls://d7340868-b74c-455a-8ce0-17a52afa43b7@134.195.101.164:21333/?sni=yyus1.xn--yun-2t1ej483a.com&fp=firefox#VPN%20AnyTLS%20us%20%28test%20AnyTLS%201%29
+anytls://d7340868-b74c-455a-8ce0-17a52afa43b7@134.195.101.164:21333/?sni=yyus1.xn--yun-2t1ej483a.com&fp=chrome#VPN%20AnyTLS%20us%20%28test%20AnyTLS%201%29
 
 anytls://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@366d6708-te7og0-tfmrui-duku.sj.oshuawei.com:8443/?insecure=1&sni=366d6708-te7og0-tfmrui-duku.sj.oshuawei.com#VPN%20AnyTLS%20us%20(test%20AnyTLS%202)
 
