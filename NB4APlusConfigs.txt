@@ -6,7 +6,7 @@ stormdns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6e
 
 anytls://dongtaiwang.com@tw.399403.xyz:8443/?insecure=1#VPN%20AnyTLS%20tw%201
 
-anytls://d7340868-b74c-455a-8ce0-17a52afa43b7@134.195.101.164:21333/?sni=yyus1.xn--yun-2t1ej483a.com&fp=chrome#VPN%20AnyTLS%20us%201
+anytls://d7340868-b74c-455a-8ce0-17a52afa43b7@134.195.101.164:21333/?sni=yyus1.xn--yun-2t1ej483a.com&fp=chrome#VPN%20AnyTLS%20us%202
 
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443/?type=ws&encryption=none&flow=&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&fp=firefox&packetEncoding=none#VPN%20vless%20us%20%28test%20vless%201%29
 
