@@ -16,7 +16,7 @@ hysteria://5.83.129.90:54177/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upm
 
 hysteria://5.83.129.153:20088/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=500&downmbps=1000&alpn=h3#VPN%20hy%20de%202
 
-hy2://school:JWhpSpBGQyBoKhS9wXnXqabzqgfUHti9@185.88.37.183:1935/?insecure=1&sni=github.com&obfs=salamander&obfs-password=CW63DfvNEEtClqaHGszFiIr4nm5YSM45#VPN%20hy2%20ee%201
+hysteria://5.83.129.143:26691/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=10&downmbps=50&alpn=h3#VPN%20hy%20de%203
 
 https://putin:lox@38.28.193.1/?sni=fan.226278.xyz#VPN%20https%20us%20%28test%20https%201%29
 
