@@ -6,7 +6,7 @@
 
 anytls://d7340868-b74c-455a-8ce0-17a52afa43b7@134.195.101.164:21333/?sni=yyus1.xn--yun-2t1ej483a.com&fp=chrome#VPN%20AnyTLS%20us%20%28test%20AnyTLS%202%29
 
-vmess://eee8cb72-7eab-4034-a308-ed06cb07e003@43.100.32.4:443?encryption=auto&host=n1747624260.4u9ma.icu&path=%2F&security=tls&sni=n1747624260.4u9ma.icu&type=ws#VPN%20vmess%20hk%201
+vmess://eyJhZGQiOiI0My4xMDAuMzIuNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibjE3NDc2MjQyNjAuNHU5bWEuaWN1IiwiaWQiOiJlZWU4Y2I3Mi03ZWFiLTQwMzQtYTMwOC1lZDA2Y2IwN2UwMDMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiVlBOIHZtZXNzIGhrIDEiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6Im4xNzQ3NjI0MjYwLjR1OW1hLmljdSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vmess://4ed58974-48cd-472e-c818-fb847b8c551f@74.48.28.190:80?encryption=aes-128-gcm&path=%2Fcctv13.m3u8&security=none&type=ws#VPN%20vmess%20us%202%20(aes-128-gcm)
 
