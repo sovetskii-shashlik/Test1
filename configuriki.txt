@@ -12,7 +12,7 @@ vmess://4ed58974-48cd-472e-c818-fb847b8c551f@74.48.28.190:80?encryption=aes-128-
 
 vmess://4ed58974-48cd-472e-c818-fb847b8c551f@74.48.28.190:80?encryption=chacha20-poly1305&path=%2Fcctv13.m3u8&security=none&type=ws#VPN%20vmess%20us%202%20(chacha20-poly1305)
 
-vless://60ba3369-9a78-40fe-98c3-233a6f107043@143.246.182.7:443/?type=xhttp&encryption=none&flow=&host=uk7.jailever.org&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-one%2F&mode=auto&security=tls&sni=uk7.jailever.org&alpn=h2%2Chttp%2F1.1&fp=qq#VPN%20vless%20us%2Fen%20%28test%20vless%201%29
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@216.106.191.151:13868/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.roblox.com&fp=firefox&security=reality&pbk=Z4ACfr0IRkMbW0-pJKS08CRhYl56DWHQBb63-pXBa3A&sid=e852dc#VPN%20vless%20it%20%28test%20vless%201%29
 
 trojan://M7v%25w11Se*@34.94.125.227:443/?type=tcp&security=tls&sni=mxlo.wsone.icu#VPN%20trojan%20us%201
 
